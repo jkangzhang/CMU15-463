@@ -1,0 +1,8 @@
+thirdparty/*
+incamera/opencv*
+CMakeFiles/*
+CMakeCache.txt
+bin/*
+cmake_install.cmake
+Makefile*
+output/*
